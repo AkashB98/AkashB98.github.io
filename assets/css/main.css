@@ -78,7 +78,7 @@ html {
   box-sizing: inherit; }
 
 body {
-  background: #232b2b; }
+  background: #28282B; }
   body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
     -moz-animation: none !important;
     -webkit-animation: none !important;
@@ -131,7 +131,7 @@ p {
   margin: 0 0 2em 0; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #3d4449;
+  color: #CF9FFF;
   font-family: "Roboto Slab", serif;
   font-weight: 700;
   line-height: 1.5;
@@ -1029,7 +1029,7 @@ textarea {
   -webkit-appearance: none;
   -ms-appearance: none;
   appearance: none;
-  background: #232b2b;
+  background: #28282B;
   border-radius: 0.375em;
   border: none;
   border: solid 1px rgba(210, 215, 217, 0.75);
@@ -1069,7 +1069,7 @@ select {
   text-overflow: ellipsis; }
   select option {
     color: #3d4449;
-    background: #ffffff; }
+    background: #28282B; }
   select:focus::-ms-value {
     background-color: transparent; }
   select::-ms-expand {
