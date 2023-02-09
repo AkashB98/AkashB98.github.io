@@ -91,7 +91,7 @@ body {
 
 /* Type */
 body, input, select, textarea {
-  color: #7f888f;
+  color: #CF9FFF;
   font-family: "Open Sans", sans-serif;
   font-size: 13pt;
   font-weight: 400;
@@ -1029,7 +1029,7 @@ textarea {
   -webkit-appearance: none;
   -ms-appearance: none;
   appearance: none;
-  background: #ffffff;
+  background: #232b2b;
   border-radius: 0.375em;
   border: none;
   border: solid 1px rgba(210, 215, 217, 0.75);
